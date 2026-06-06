@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "databases-with-python",
+      "title": "Databases with Python",
+      "description": "Create a persistent SQLite database and connect it to a Python API for CRUD operations.",
+      "path": "assignments/databases-with-python",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
